@@ -1,0 +1,15 @@
+estructuras de datos
+Listas indexadas mutables
+Tuplas indexadas inmutables
+diccionarios no indexados mutables -> pares de clave valor
+
+Mi_lista = [1,2,"3"]
+Mi_lista[0] -> 1
+
+Mi_tupla = (1,2,"3") - usan parentesis
+Mi_tupla[0] -> 1
+
+Mi_diccionario = {"nombre": "Ivana", "apellido": "god", "email": "ivanagod@gmail.com"}
+
+Mi_diccionario["nombre"] -> "Ivana"
+Mi_diccionario["nombre"] = "Ivana S" -> cambio el valor del diccionario

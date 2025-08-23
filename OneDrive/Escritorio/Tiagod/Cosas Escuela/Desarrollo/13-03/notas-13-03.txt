@@ -1,0 +1,32 @@
+Python
+
+declaracion de variables javascript-python
+
+let nombreVariable = ""
+
+NombreVariable="" -> python
+
+javascript
+if(nombreVariable=="")
+{
+    console.log("el valor está vacío")
+}
+else if {
+
+}
+else {
+
+}
+
+python
+if nombreVariable == "":
+print("el valor está vacío")
+elif nombreVariable
+
+
+Funciones:
+int = () convierte en numeros entero
+float = () convierte en un numero flotante
+str = () convierte en un string
+
+automatizamos la tabla de valores con la depuración

@@ -1,0 +1,22 @@
+estructuras repetitivas
+while condicion
+    bloque de instrucciones
+
+el while se ejecuta mientras una condicion sea verdadera, en cambio el for se utiliza cuando sabemos la cantidad de iteraciones de nuestro bucle, y se utiliza una condicion de corte.
+
+while true:
+    bloque de instrucciones
+    if condicion
+    break
+
+bucle infinito
+
+while false, no se ejecutaria nunca
+
+ejercicios: resolver con while o "do while"
+
+1) escribe un programa que imprima los n del 1 al 10
+
+2) escribe un programa que calcule el factorial de un numero
+
+3) escribe un programa que permita al usuario adivina un numero, si el usuario falla, el programa deberá proporcionar pistas "es mayor" o "es menor". al final deberá informar al usuario la cantidad de intentos.
