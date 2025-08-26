@@ -17,4 +17,5 @@ while True:
 
     else:
         print('No se puede avanzar menos que 0')
+        print("les cago todo el trabajo")
     
